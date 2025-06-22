@@ -1,10 +1,11 @@
 ___
-# ПРИВЕТ :smiley:
-меня зовут **Евгений**,
-я изучаю новую IT профессию в [**Нетологии**](https://netology.ru/)
+# HI! :smiley:
+my name is **Evgeniy**,
+I am studying a new IT profession at the [**Netology**](https://netology.ru/)
 
-###### тут возможно появится портфолио
+###### portfolio may appear here
 ---
- А это Catman, и он следит за безопасностью на этой страничке
+ 
+And this is Catman, and he keeps an eye on security on this page.
 
 ![](resource/img/Catman.png)
